@@ -42,7 +42,7 @@ chmod +x ugit
 
  ### b. Commit Changes:
  ```bash
-./ugit init
+./ugit commit -m "Initial commit"
 ```
 
  ### c. Tag a Commit:
